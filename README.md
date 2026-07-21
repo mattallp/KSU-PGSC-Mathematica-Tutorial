@@ -12,7 +12,7 @@ This guide is by no means extensive; it will mostly cover the basics of syntax a
 
 
 
-The rest of this README will include instructions on how to install and activate a Wolfram Mathematica license as a student at KSU, and an outline of how the GitHub repository is organized. 
+The rest of this README will include instructions on how to install and activate a Wolfram Mathematica license as a student at KSU, an outline of how the GitHub repository is organized, and a Table of Contents/Topics list of the main Mathematica notebook file. 
 
 
 <a name = InstallInstructions></a>
@@ -40,4 +40,34 @@ You also have access to Wolfram Mathematica Online; however, this guide is inten
 
 This GitHub repository currently consists of three main files:
 - README.md
-- 
+- TASKLIST.md
+     - This is an organized task list to help monitor progress on the project. This is mostly for my own bookkeeping, though any contributors may want to look at this. 
+- PGSC-Wildcat-Guide-to-Mathematica
+     - This is the main Mathematica notebook tutorial file. This is the file you want to work through the tutorials  
+# Current list of Topics/Table of Contents for PGSC-Wildcat-Guide-to-Mathematica.nb
+   0. Introduction
+   1. Basics: How to write and evaluate code, how to declare variables, and how to call functions.
+      - Input and Output
+        - Clearing and Suppressing Output
+        - Documentation
+        - Errors
+        - Troubleshooting
+        - Comments in code
+      - Variables and Basic Functions
+        - Exercise with Solution
+      - Lists, Vectors, and Matrices
+        - Exercise with Solution
+   2. Functions and Numerics: How to define and evaluate functions in Mathematica, some nuances of the numerical calculations and units in Mathematica.
+      - Function Definition
+        - Exercise with Solution
+      - Replace
+      - Prefix and Postfix
+        - Exercise with Solution
+      - Numerics
+      - Units in Mathematica
+        - Wolfram|Alpha Shortcuts
+        - Exercise with Solution
+   3. Plotting and Graphics: Basic graphical features in Mathematica, including plots, graphics objects, and animations.
+      - 1D Plots and Plot Options
+        - Plot Options for Formatting
+        - Nuances of Plot Commands
