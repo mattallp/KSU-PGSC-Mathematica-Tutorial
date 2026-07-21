@@ -1,0 +1,53 @@
+# Task List
+A list of tasks to complete 
+
+## Overall Repo Organization
+- [x] Create README.md File
+- [ ] Upload current version of Mathematica Tutorial Notebook
+- [ ] Create and upload PDF for typesetting and formatting
+- [ ] \(?) separate Mathematica Notebook into multiple files 
+
+## README file
+- [x] Write Introduction and Installation instructions
+- [ ] Write the repo outline and organization
+- [ ] Add links to the Mathematica Notebook and PDFs and edit README to reflect updates
+
+
+## PDF on formatting and typesetting
+- [ ] Section on creating a Mathematica Notebook
+- [ ] Section on Stylesheets
+- [ ] Section on typesetting and Palettes
+
+## Mathematica Notebook File
+- [x] Complete the introduction section
+- [x] Complete Basics Section
+- [x] Complete Functions and Numerics Section
+- [ ] Complete Plotting and Graphics Section
+- [ ] Complete Programming Techniques and Tools Section
+- [ ] Complete Statistics and Data Fitting Section
+- [ ] Complete Differential Equations Section
+### Basics
+- [x] Input and Output
+- [x] Variables and Basic Functions
+- [x] Lists, Vectors, and Matrices
+### Functions and Numerics
+- [x] Function Definition
+- [x] Replace
+- [x] Prefix and Postfix
+- [x] Numerics
+- [x] Units in Mathematica
+### Plotting and Graphics  
+- [x] 1D plots and Plot Options
+- [ ] Plots in Higher Dimensions
+- [ ] Graphics
+- [ ] Animations and Exporting Graphics
+### Programming Techniques and Tools
+- [ ] Loops, Conditionals, and Prompts
+- [ ] Modules
+- [ ] Packages
+### Statistics and Data Fitting
+- [ ] Visualizing Data in Mathematica
+- [ ] Models
+### Differential Equations
+- [ ] Exact Solutions to Differential Equations
+- [ ] Numerical Solutions
