@@ -3,14 +3,15 @@ A list of tasks to complete
 
 ## Overall Repo Organization
 - [x] Create README.md File
-- [ ] Upload current version of Mathematica Tutorial Notebook
+- [x] Create Mathematica Tutorial Notebook PGSC-Wildcat-Guide-to-Mathematica
 - [ ] Create and upload PDF for typesetting and formatting
 - [ ] \(?) separate Mathematica Notebook into multiple files 
 
 ## README file
 - [x] Write Introduction and Installation instructions
 - [ ] Write the repo outline and organization
-- [ ] Add links to the Mathematica Notebook and PDFs and edit README to reflect updates
+- [ ] \(ongoing) Add links to the Mathematica Notebook and PDFs and edit README to reflect updates
+- [ ] \(ongoing) Update the Topics/Table of Contents
 
 
 ## PDF on formatting and typesetting
@@ -22,7 +23,7 @@ A list of tasks to complete
 - [x] Complete the introduction section
 - [x] Complete Basics Section
 - [x] Complete Functions and Numerics Section
-- [ ] Complete Plotting and Graphics Section
+- [ ] Complete Plotting and Graphics Section (WIP)
 - [ ] Complete Programming Techniques and Tools Section
 - [ ] Complete Statistics and Data Fitting Section
 - [ ] Complete Differential Equations Section
