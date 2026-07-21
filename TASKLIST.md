@@ -46,6 +46,7 @@ A list of tasks to complete
 - [ ] Loops, Conditionals, and Prompts
 - [ ] Modules
 - [ ] Packages
+- [ ] Debugging
 ### Statistics and Data Fitting
 - [ ] Visualizing Data in Mathematica
 - [ ] Models
