@@ -39,7 +39,7 @@ A list of tasks to complete
 - [x] Units in Mathematica
 ### Plotting and Graphics  
 - [x] 1D plots and Plot Options
-- [ ] Plots in Higher Dimensions
+- [x] Plots in Higher Dimensions
 - [ ] Graphics
 - [ ] Animations and Exporting Graphics
 ### Programming Techniques and Tools

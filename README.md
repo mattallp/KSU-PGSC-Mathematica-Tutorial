@@ -42,8 +42,8 @@ This GitHub repository currently consists of three main files:
 - README.md
 - TASKLIST.md
      - This is an organized task list to help monitor progress on the project. This is mostly for my own bookkeeping, though any contributors may want to look at this. 
-- PGSC-Wildcat-Guide-to-Mathematica
-     - This is the main Mathematica notebook tutorial file. This is the file you want to work through the tutorials  
+- PGSC-Wildcat-Guide-to-Mathematica.nb
+     - This is the main Mathematica notebook tutorial file. This is the file you want to work through the tutorials.
 # Current list of Topics/Table of Contents for PGSC-Wildcat-Guide-to-Mathematica.nb
    0. Introduction
    1. Basics: How to write and evaluate code, how to declare variables, and how to call functions.
@@ -71,3 +71,9 @@ This GitHub repository currently consists of three main files:
       - 1D Plots and Plot Options
         - Plot Options for Formatting
         - Nuances of Plot Commands
+      - Plots in Higher Dimensions
+      	- Plot3D
+      	- Contour Plots
+      	- Vector Fields
+      	- Parametric Plots
+      	- Complex Functions
