@@ -1,5 +1,5 @@
 # Task List
-A list of tasks to complete 
+A list of tasks to track the progress of this project
 
 ## Overall Repo Organization
 - [x] Create README.md File
@@ -11,8 +11,10 @@ A list of tasks to complete
 ## README file
 - [x] Write Introduction and Installation instructions
 - [ ] Write the repo outline and organization
-- [ ] \(ongoing) Add links to the Mathematica Notebook and PDFs and edit README to reflect updates
-- [ ] \(ongoing) Update the Topics/Table of Contents
+- [ ] \(ongoing) Add links to the Mathematica Notebook and edit README to reflect updates
+
+ ## Table of Contents
+- [ ] \(ongoing) Update the Table of Contents
 
 ## Mathematica Notebook File
 - [x] Complete the introduction section
