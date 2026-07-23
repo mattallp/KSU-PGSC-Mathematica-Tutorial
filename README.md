@@ -12,7 +12,7 @@ This guide is by no means extensive; it will mostly cover the basics of syntax a
 
 
 
-The rest of this README will include instructions on how to install and activate a Wolfram Mathematica license as a student at KSU, an outline of how the GitHub repository is organized, and a Table of Contents/Topics list of the main Mathematica notebook file. If you have any questions, suggestions, or concerns, you can reach me at mattallp@ksu.edu or over Discord. 
+The rest of this README will include instructions on how to install and activate a Wolfram Mathematica license as a student at KSU and an outline of how the GitHub repository is organized. If you have any questions, suggestions, or concerns, you can reach me at mattallp@ksu.edu or over Discord. 
 
 
 <a name = InstallInstructions></a>
