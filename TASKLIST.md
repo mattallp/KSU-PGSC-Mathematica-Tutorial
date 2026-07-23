@@ -19,7 +19,7 @@ A list of tasks to track the progress of this project
 ## Mathematica Notebook File
 - [x] Complete the introduction section
 - [x] Complete Basics Section
-- [x] Complete Functions and Numerics Section
+- [ ] Complete Functions and Numerics Section
 - [ ] Complete Plotting and Graphics Section (WIP)
 - [ ] Complete Programming Techniques and Tools Section
 - [ ] Complete Statistics and Data Fitting Section
@@ -29,6 +29,7 @@ A list of tasks to track the progress of this project
 - [x] Variables and Basic Functions
 - [x] Lists, Vectors, and Matrices
 ### Functions and Numerics
+- [ ] Add content about assumptions somewhere in this section
 - [x] Function Definition
 - [x] Replace
 - [x] Prefix and Postfix
