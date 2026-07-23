@@ -8,7 +8,7 @@ This is a crash course in the Mathematica programming language designed to help 
 # Introduction
 Welcome to Kansas State! This guide is originally intended to help new physics graduate students become familiar with Mathematica. Mathematica is a powerful educational tool that some professors may require you to use for classes. In addition, you may find Mathematica useful for research purposes such as creating plots, performing heavy computations, conducting data analysis, and many more tasks you might encounter in your academic career. 
 
-This guide is by no means extensive; it will mostly cover the basics of syntax and provide some useful tips and examples. An accompanying PDF (WIP) will include formatting and style sheets. Note that this guide was written using Wolfram 15.0 on Windows and Linux, so some things may have changed depending on the version you are using. To get started, you will need to install Mathematica (see the section below on [Installing Mathematica](#InstallInstructions)). After you have successfully installed and activated Mathematica, you will want to download the Mathematica notebook included in this repo: [PGSC Wildcat Guide to Mathematica](PGSC-Wildcat-Guide-to-Mathematica.nb). You should then be able to open the notebook in Mathematica and begin working through the tutorial. 
+This guide is by no means extensive; it will mostly cover the basics of syntax and provide some useful tips and examples. I may potentially add information on formatting, styling, and typsetting in the future. Note that this guide was written using Wolfram 15.0 on Windows and Linux, so some things may have changed depending on the version you are using. To get started, you will need to install Mathematica (see the section below on [Installing Mathematica](#InstallInstructions)). After you have successfully installed and activated Mathematica, you will want to download the Mathematica notebook included in this repo: [PGSC Wildcat Guide to Mathematica](PGSC-Wildcat-Guide-to-Mathematica.nb). You should then be able to open the notebook in Mathematica and begin working through the tutorial. 
 
 
 
@@ -38,7 +38,7 @@ You also have access to Wolfram Mathematica Online; however, this guide is inten
 
 # Repository Organization
 
-This GitHub repository currently consists of three main files:
+This GitHub repository currently consists of four main files:
 - README.md
   - Description, introduction, instructions on how to install and activate Mathematica on personal computer, and repo organization
 - TASKLIST.md
