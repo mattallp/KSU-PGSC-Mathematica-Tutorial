@@ -5,19 +5,14 @@ A list of tasks to complete
 - [x] Create README.md File
 - [x] Create Mathematica Tutorial Notebook PGSC-Wildcat-Guide-to-Mathematica
 - [ ] Create and upload PDF for typesetting and formatting
-- [ ] \(?) separate Mathematica Notebook into multiple files 
+- [ ] \(?) Separate Mathematica Notebook into multiple files
+- [ ] \(?) Add info about formatting, styling, and typesetting 
 
 ## README file
 - [x] Write Introduction and Installation instructions
 - [ ] Write the repo outline and organization
 - [ ] \(ongoing) Add links to the Mathematica Notebook and PDFs and edit README to reflect updates
 - [ ] \(ongoing) Update the Topics/Table of Contents
-
-
-## PDF on formatting and typesetting
-- [ ] Section on creating a Mathematica Notebook
-- [ ] Section on Stylesheets
-- [ ] Section on typesetting and Palettes
 
 ## Mathematica Notebook File
 - [x] Complete the introduction section
