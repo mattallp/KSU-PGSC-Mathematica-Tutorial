@@ -31,3 +31,5 @@
       	- Vector Fields
       	- Parametric Plots
       	- Complex Functions
+      - Graphic Primitives and Combining Graphics
+        - Exercise with Solution

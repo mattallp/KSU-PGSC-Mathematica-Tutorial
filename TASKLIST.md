@@ -37,7 +37,7 @@ A list of tasks to track the progress of this project
 ### Plotting and Graphics  
 - [x] 1D plots and Plot Options
 - [x] Plots in Higher Dimensions
-- [ ] Graphics
+- [x] Graphic Primitives and Combining Graphics
 - [ ] Animations and Exporting Graphics
 ### Programming Techniques and Tools
 - [ ] Loops, Conditionals, and Prompts
