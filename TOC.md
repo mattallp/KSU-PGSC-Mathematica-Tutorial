@@ -17,7 +17,9 @@
       - Replace
       - Prefix and Postfix
         - Exercise with Solution
-      - Numerics
+      - Numerics and Integration
+      	- Exact Integration
+      	- Numerical Integration, Accuracy, and Precision
       - Units in Mathematica
         - Wolfram|Alpha Shortcuts
         - Exercise with Solution
@@ -33,3 +35,6 @@
       	- Complex Functions
       - Graphic Primitives and Combining Graphics
         - Exercise with Solution
+      - Animations and Exporting Graphics
+      	- Manipulate and Animate
+      	- Exporting Graphics

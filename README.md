@@ -2,7 +2,7 @@
 Author: Matthew Allphin (mattallp@ksu.edu), PGSC Academic Chair 2026-2027
 
 ## Description
-This is a crash course in the Mathematica programming language designed to help physics students at Kansas State University. The goal is to help students learn the basics of Mathematica essential for the physics graduate program at Kansas State University. This guide is a work in progress.
+This is a crash course in the Mathematica programming language designed to help physics students at Kansas State University. The goal is to help students learn the basics of Mathematica essential for the physics graduate program at Kansas State University. **This guide is a work in progress.**
 
 
 # Introduction
@@ -32,7 +32,7 @@ The basic process, however, is as follows:
  
  <a name = "NOTE1"></a>
 > [!NOTE]
-> As of July 2026, I believe you don't actually need an Activation Key code to activate Mathematica. You may just need to create an account using your KSU credentials. After installing Mathematica, you will simply be prompted to log in to your Wolfram account, and after using Single Sign-On, your Mathematica should be activated and ready for use. 
+> As of July 2026 and with Mathematica 15.0 and newer, I believe you don't actually need an Activation Key code to activate Mathematica. You may just need to create an account using your KSU credentials. After installing Mathematica, you will simply be prompted to log in to your Wolfram account, and after using Single Sign-On, your Mathematica should be activated and ready for use. 
 
 You also have access to Wolfram Mathematica Online; however, this guide is intended for locally installed versions of Mathematica. 
 
