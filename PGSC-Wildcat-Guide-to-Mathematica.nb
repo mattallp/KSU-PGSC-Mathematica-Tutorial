@@ -59883,7 +59883,7 @@ so we will only go through a basic example using 2D graphics.\
    3.993734401389907*^9}, 
    3.993734646761469*^9},ExpressionUUID->"d17fd0a3-9530-4a96-aa10-\
 dd001859a728"]
-}, Open  ]],
+}, Closed]],
 
 Cell["Animations and Exporting Graphics", "Subsection",
  CellChangeTimes->{{3.99373357370685*^9, 3.993733574775091*^9}, {
@@ -60629,8 +60629,8 @@ Cell[3197809, 56968, 171024, 2892, 316, "Output",ExpressionUUID->"fc60f0b8-c537-
 Cell[CellGroupData[{
 Cell[3368894, 59867, 228, 4, 37, "Subsection",ExpressionUUID->"6f8fa4f0-ff5d-42a9-bf15-e0c506db26d0"],
 Cell[3369125, 59873, 629, 11, 54, "Text",ExpressionUUID->"d17fd0a3-9530-4a96-aa10-dd001859a728"]
-}, Open  ]],
-Cell[3369769, 59887, 277, 4, 53, "Subsection",ExpressionUUID->"36df50b2-c414-48ee-8f2f-b074d9e6ab5d"]
+}, Closed]],
+Cell[3369769, 59887, 277, 4, 37, "Subsection",ExpressionUUID->"36df50b2-c414-48ee-8f2f-b074d9e6ab5d"]
 }, Open  ]],
 Cell[CellGroupData[{
 Cell[3370083, 59896, 278, 4, 67, "Section",ExpressionUUID->"cec7c771-478e-d145-a4c3-f8ecebcfb481"],
