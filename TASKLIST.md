@@ -10,7 +10,8 @@ A list of tasks to track the progress of this project
 ## README file
 - [x] Write Introduction and Installation instructions
 - [x] Write the repo outline and organization
-- [ ] \(ongoing) Add links to the Mathematica Notebook and edit README to reflect updates
+- [x] Add appropriate links to files in README
+- [ ] \(ongoing) Edit README to reflect updates
 
  ## Table of Contents
 - [ ] \(ongoing) Update the Table of Contents
@@ -19,7 +20,7 @@ A list of tasks to track the progress of this project
 - [x] Complete the introduction section
 - [x] Complete Basics Section
 - [x] Complete Functions and Numerics Section
-- [ ] Complete Plotting and Graphics Section (WIP)
+- [x] Complete Plotting and Graphics Section
 - [ ] Complete Programming Techniques and Tools Section
 - [ ] Complete Statistics and Data Fitting Section
 - [ ] Complete Differential Equations Section

@@ -41,9 +41,9 @@ You also have access to Wolfram Mathematica Online; however, this guide is inten
 This GitHub repository currently consists of four main files:
 - README.md
   - Description, introduction, instructions on how to install and activate Mathematica on personal computer, and repo organization
-- TASKLIST.md
+- [TASKLIST.md](TASKLIST.md)
   - This is an organized task list to help monitor progress on the project. This is mostly for my own bookkeeping, though any contributors may want to look at this.
-- TOC.md
+- [TOC.md](TOC.md)
   - Contains a table of contents for the Mathematica tutorial file
-- PGSC-Wildcat-Guide-to-Mathematica.nb
+- [PGSC-Wildcat-Guide-to-Mathematica.nb](PGSC-Wildcat-Guide-to-Mathematica.nb)
      - This is the main Mathematica notebook tutorial file. This is the file you want to work through the tutorials.
