@@ -21,7 +21,7 @@ A list of tasks to track the progress of this project
 - [x] Complete Basics Section
 - [x] Complete Functions and Numerics Section
 - [x] Complete Plotting and Graphics Section
-- [ ] Complete Programming Techniques and Tools Section
+- [ ] Complete Programming Techniques and Tools Section (WIP)
 - [ ] Complete Statistics and Data Fitting Section
 - [ ] Complete Differential Equations Section
 ### Basics
@@ -40,7 +40,7 @@ A list of tasks to track the progress of this project
 - [x] Graphic Primitives and Combining Graphics
 - [x] Animations and Exporting Graphics
 ### Programming Techniques and Tools
-- [ ] Conditionals, Loops, and Prompts
+- [ ] Logic: Conditionals, Loops, and Prompts
 - [ ] Modules
 - [ ] Packages
 - [ ] Debugging
