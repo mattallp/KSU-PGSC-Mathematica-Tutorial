@@ -38,6 +38,6 @@
       - Animations and Exporting Graphics
       	- Manipulate and Animate
       	- Exporting Graphics
-    4. Programming Techniques and Tools: Mathematica's flavor of the programming tools that are common across most programming languages. Including logic, loops, debugging, and packages.
+    4. Programming Techniques and Tools (WIP): Mathematica's flavor of the programming tools that are common across most programming languages. Including logic, loops, debugging, and packages.
       - Logic: Conditionals, Loops, and Prompts
         - Conditionals
