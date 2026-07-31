@@ -40,7 +40,7 @@ A list of tasks to track the progress of this project
 - [x] Graphic Primitives and Combining Graphics
 - [x] Animations and Exporting Graphics
 ### Programming Techniques and Tools
-- [ ] Logic: Conditionals, Loops, and Prompts
+- [x] Logic: Conditionals, Loops, and Prompts
 - [ ] Modules
 - [ ] Packages
 - [ ] Debugging
