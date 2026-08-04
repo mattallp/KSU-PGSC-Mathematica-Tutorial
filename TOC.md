@@ -42,3 +42,6 @@
       - Logic: Conditionals, Loops, and Prompts
         - Conditionals
         - Loops
+        - Prompts
+      - Modules
+        -Exercise with Solution
