@@ -41,8 +41,8 @@ A list of tasks to track the progress of this project
 - [x] Animations and Exporting Graphics
 ### Programming Techniques and Tools
 - [x] Logic: Conditionals, Loops, and Prompts
-- [ ] Modules
-- [ ] Packages
+- [x] Modules
+- [x] Packages
 - [ ] Debugging
 ### Statistics and Data Fitting
 - [ ] Visualizing Data in Mathematica
